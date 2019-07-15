@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import { makeStyles } from '@material-ui/core/styles';
 import Home_page from './components/Home_page/Home_page';
@@ -32,15 +33,6 @@ const useStyles = makeStyles(theme => ({
 
 const App = () => {
   const classes = useStyles();
-
-  // const handleChange = prop => event => {
-  //   setValues({ ...values, [prop]: event.target.value });
-  // };
-
-  // const handleClickShowPassword = () => {
-  //   setValues({ ...values, showPassword: !values.showPassword });
-  // };
-
   return (
   <React.Fragment>
     <Home_page classes={classes} />
