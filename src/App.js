@@ -1,26 +1,53 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { makeStyles } from '@material-ui/core/styles';
+import Home_page from './components/Home_page/Home_page';
 
-function App() {
+
+
+const useStyles = makeStyles(theme => ({
+  root: {
+    display: 'flex',
+    flexWrap: 'wrap',
+    padding: theme.spacing(3, 2),
+  },
+  margin: {
+    margin: theme.spacing(1),
+  },
+  textField: {
+    border: 'solid 1px #eaeef3'
+  },
+  button: {
+    backgroundColor: '#f7f9fb'
+  },
+  icon: {
+    color : '#e3e9ef',
+    '&:hover': {
+      color: 'black'
+    }
+  },
+  
+}));
+
+
+
+const App = () => {
+  const classes = useStyles();
+
+  // const handleChange = prop => event => {
+  //   setValues({ ...values, [prop]: event.target.value });
+  // };
+
+  // const handleClickShowPassword = () => {
+  //   setValues({ ...values, showPassword: !values.showPassword });
+  // };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  <React.Fragment>
+    <Home_page classes={classes} />
+
+  </React.Fragment>
+    
+  )
 }
 
-export default App;
+export default App

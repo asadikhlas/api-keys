@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.292" height="12.185" viewBox="0 0 15.292 12.185">
+  <g id="Group_789" data-name="Group 789" transform="translate(-2111 -2403)">
+    <rect id="Rectangle_344" data-name="Rectangle 344" width="14.292" height="11.185" rx="1" transform="translate(2111.5 2403.5)" stroke-width="1" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)"/>
+    <line id="Line_207" data-name="Line 207" x2="14.292" transform="translate(2111.5 2406.607)" fill="none" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <circle id="Ellipse_310" data-name="Ellipse 310" cx="0.311" cy="0.311" r="0.311" transform="translate(2113.364 2404.743)" stroke-width="1" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)"/>
+    <circle id="Ellipse_311" data-name="Ellipse 311" cx="0.311" cy="0.311" r="0.311" transform="translate(2115.228 2404.743)" stroke-width="1" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)"/>
+    <circle id="Ellipse_312" data-name="Ellipse 312" cx="0.311" cy="0.311" r="0.311" transform="translate(2117.093 2404.743)" stroke-width="1" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)"/>
+    <g id="Group_788" data-name="Group 788" transform="translate(2117.093 2407.864)">
+      <line id="Line_208" data-name="Line 208" y2="3.719" transform="translate(1.864 0)" fill="none" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_820" data-name="Path 820" d="M2120.5,2412.543l1.864-2.02,1.864,2.02" transform="translate(-2120.5 -2410.523)" fill="rgba(0,0,0,0)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <path id="Path_821" data-name="Path 821" d="M2118.5,2416.508v1.238h6.214v-1.238" transform="translate(-2.65 -4.925)" fill="rgba(0,0,0,0)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

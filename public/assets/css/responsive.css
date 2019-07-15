@@ -1,0 +1,335 @@
+/* XL Device :1200px. */
+@media (min-width: 1400px) and (max-width: 1650px) {
+
+    .table-list-main li {
+	
+	padding: 10px 25px;
+}
+   .v-inner-contnet p br {
+	display: none;
+}    
+}
+
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+    
+  .v-inner-contnet p br {
+	display: none;
+}  
+.m-top-text h3 {
+	font-size: 20px;
+	color: #42485A;
+}
+.m-top-text h3 span {
+	
+	font-size: 15px;
+
+}   
+.table-list-main li {
+	
+	font-size: 13px;
+	
+} 
+.d-left-top-content h4 {
+	
+	font-size: 17px;
+	
+}  
+.site-left-part {
+	
+	width: 250px;
+
+} 
+.site-right-main-content {
+	margin-left: 250px;
+}  
+.d-left-top-content {
+	
+	padding: 20px 10px;
+} 
+.d-left-top-content a {
+	font-size: 12px;
+
+} 
+.comment-blk textarea {
+
+	height: 130px;
+	
+} 
+.v-inner-contnet {
+
+	margin-bottom: 15px;
+}  
+.site-main-contnet-inner {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}  
+.table td, .table th {
+	padding: 10px;
+	vertical-align: middle;
+	
+}
+.table-list-main {
+	height: 657px;
+	
+}  
+    
+    
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    
+  .v-inner-contnet p br {
+	display: none;
+}  
+.m-top-text h3 {
+	font-size: 20px;
+	color: #42485A;
+}
+.m-top-text h3 span {
+	
+	font-size: 15px;
+
+}   
+.table-list-main li {
+	
+	font-size: 13px;
+	
+} 
+.d-left-top-content h4 {
+	
+	font-size: 17px;
+	
+}  
+.site-left-part {
+	width: 250px;
+	left: -250px;-webkit-transition: .3s;transition: .3s;
+}
+.site-right-main-content {
+	margin-left: 0;
+} 
+.d-left-top-content {
+	
+	padding: 20px 10px;
+} 
+.d-left-top-content a {
+	font-size: 12px;
+
+} 
+.comment-blk textarea {
+
+	height: 130px;
+	
+} 
+.v-inner-contnet {
+
+	margin-bottom: 15px;
+}  
+.site-main-contnet-inner {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}  
+.table td, .table th {
+	padding: 10px;
+	vertical-align: middle;
+	
+}
+.table-list-main {
+	height: 657px;
+	
+}  
+  .site-left-part.activee {
+	left: 0;
+}
+    
+.menu-open-trg {
+	display: block;
+}  
+    
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .v-inner-contnet p br {
+	display: none;
+}  
+.m-top-text h3 {
+	font-size: 20px;
+	color: #42485A;
+}
+.m-top-text h3 span {
+	
+	font-size: 15px;
+
+}   
+.table-list-main li {
+	
+	font-size: 13px;
+	
+} 
+.d-left-top-content h4 {
+	
+	font-size: 17px;
+	
+}  
+.site-left-part {
+	width: 250px;
+	left: -250px;-webkit-transition: .3s;transition: .3s;
+}
+.site-right-main-content {
+	margin-left: 0;
+} 
+.d-left-top-content {
+	
+	padding: 20px 10px;
+} 
+.d-left-top-content a {
+	font-size: 12px;
+
+} 
+.comment-blk textarea {
+
+	height: 130px;
+	
+} 
+.v-inner-contnet {
+
+	margin-bottom: 15px;
+}  
+.site-main-contnet-inner {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}  
+.table td, .table th {
+	padding: 10px;
+	vertical-align: middle;
+	
+}
+.table-list-main {
+	height: 657px;
+	
+}  
+  .site-left-part.activee {
+	left: 0;
+}
+.menu-open-trg {
+	display: block;
+}
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .v-inner-contnet p br {
+	display: none;
+}  
+.m-top-text h3 {
+	font-size: 20px;
+	color: #42485A;
+}
+.m-top-text h3 span {
+	
+	font-size: 15px;
+
+}   
+.table-list-main li {
+	
+	font-size: 13px;
+	
+} 
+.d-left-top-content h4 {
+	
+	font-size: 17px;
+	
+}  
+.site-left-part {
+	width: 250px;
+	left: -250px;-webkit-transition: .3s;transition: .3s;
+}
+.site-right-main-content {
+	margin-left: 0;
+} 
+.d-left-top-content {
+	
+	padding: 20px 10px;
+} 
+.d-left-top-content a {
+	font-size: 12px;
+
+} 
+.comment-blk textarea {
+
+	height: 130px;
+	
+} 
+.v-inner-contnet {
+
+	margin-bottom: 15px;
+}  
+.site-main-contnet-inner {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}  
+.table td, .table th {
+	padding: 10px;
+	vertical-align: middle;
+	
+}
+.table-list-main {
+	height: 657px;
+	
+}  
+  .site-left-part.activee {
+	left: 0;
+}
+.d-left-top-content a {
+	
+	color: #6C7384;
+	position: relative;
+	right: 0;
+	-webkit-transform: translateY(-50%);
+	transform: none;
+	display: inline-block;
+	margin-top: 15px;
+}
+.mission-inner-text {
+	padding: 10px;
+}  
+    
+.sigle-btn {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 33.333%;
+	flex: 0 0 50%;
+	max-width: 50%;
+	padding: 0 5px;
+	margin-bottom: 10px;
+} 
+.button-list-wrp {
+	
+	margin: 0 -5px;
+}  
+.menu-open-trg {
+	display: block;
+} 
+.section-title h1 {
+	font-size: 25px;
+}
+    
+    
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
